@@ -1,4 +1,4 @@
-# B-rse-Frankfurt-News-Scraper
+# Boerse-Frankfurt-News-Scraper
 Scrapes the API of https://www.boerse-frankfurt.de/nachrichten (in german). Gpt-4o-mini will generate a summary of the news content. 
 The python script monitors the endpoint and checks every 15s for new entries. 
 Disadvantage: The time of publishing is always 9-15min behind the current time.
